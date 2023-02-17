@@ -12,7 +12,7 @@ Todo 관리를 위한 웹 애플리케이션입니다.
 ## Contributors
 
 - FE: 김태은, 조수빈
-- BE: 5
+- BE: 6
 
 ## Project Wiki
 
